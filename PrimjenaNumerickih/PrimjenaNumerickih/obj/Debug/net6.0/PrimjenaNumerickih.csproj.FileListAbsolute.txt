@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\bin\Debug\net6.0\PrimjenaNumerickih.exe
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\bin\Debug\net6.0\PrimjenaNumerickih.deps.json
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\bin\Debug\net6.0\PrimjenaNumerickih.runtimeconfig.json
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\bin\Debug\net6.0\PrimjenaNumerickih.dll
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\bin\Debug\net6.0\PrimjenaNumerickih.pdb
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\obj\Debug\net6.0\PrimjenaNumerickih.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\obj\Debug\net6.0\PrimjenaNumerickih.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\obj\Debug\net6.0\PrimjenaNumerickih.AssemblyInfo.cs
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\obj\Debug\net6.0\PrimjenaNumerickih.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\obj\Debug\net6.0\PrimjenaNumerickih.dll
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\obj\Debug\net6.0\refint\PrimjenaNumerickih.dll
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\obj\Debug\net6.0\PrimjenaNumerickih.pdb
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\obj\Debug\net6.0\PrimjenaNumerickih.genruntimeconfig.cache
+C:\Users\User\Desktop\zadaca\PrimjenaNumerickih\PrimjenaNumerickih\obj\Debug\net6.0\ref\PrimjenaNumerickih.dll
